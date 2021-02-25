@@ -2325,6 +2325,8 @@ input, select, textarea {
 		.icon.style9 {
 			color: #cdf08c;
 		}
+
+		
 		@media screen and (max-width: 1680px) {
 
 			.icon.major:before {
