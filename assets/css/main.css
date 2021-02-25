@@ -2291,38 +2291,56 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
+			display: flex;
+			flex-direction: column;
 			color: #efa8b0;
 		}
 
 		.icon.style2 {
+			display: flex;
+			flex-direction: column;
 			color: #c79cc8;
 		}
 
 		.icon.style3 {
+			display: flex;
+			flex-direction: column;
 			color: #a89cc8;
 		}
 
 		.icon.style4 {
+			display: flex;
+			flex-direction: column;
 			color: #9bb2e1;
 		}
 
 		.icon.style5 {
+			display: flex;
+			flex-direction: column;
 			color: #8cc9f0;
 		}
 
 		.style6 {
+			display: flex;
+			flex-direction: column;
 			background-color: #8cedf0;
 		}
 
 		.style7 {
+			display: flex;
+			flex-direction: column;
 			background-color: #8cf0c6;
 		}
 		
 		.style8 {
+			display: flex;
+			flex-direction: column;
 			background-color: #a8f08c;
 		}
 		
 		.style9 {
+			display: flex;
+			flex-direction: column;
 			background-color: #cdf08c;
 		}
 
