@@ -2290,56 +2290,65 @@ input, select, textarea {
 				line-height: 2em;
 			}
 
-		.icon.style1 {
+		.style1 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			color: #efa8b0;
 		}
 
-		.icon.style2 {
+		.style2 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			color: #c79cc8;
 		}
 
-		.icon.style3 {
+		.style3 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			color: #a89cc8;
 		}
 
-		.icon.style4 {
+		.style4 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			color: #9bb2e1;
 		}
 
-		.icon.style5 {
+		.style5 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			color: #8cc9f0;
 		}
 
 		.style6 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			background-color: #8cedf0;
 		}
 
 		.style7 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			background-color: #8cf0c6;
 		}
 		
 		.style8 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			background-color: #a8f08c;
 		}
 		
 		.style9 {
 			display: flex;
+			align-items: center;
 			flex-direction: column;
 			background-color: #cdf08c;
 		}
