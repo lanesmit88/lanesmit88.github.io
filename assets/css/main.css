@@ -2858,13 +2858,13 @@ input, select, textarea {
 	}
 
 		.features li {
-			width: calc(33.33333% - 2em);
+			width: calc(50% - 2em);
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
 		}
 
-			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
+			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3), .features li:nth-child(4) {
 				margin-top: 0;
 			}
 
