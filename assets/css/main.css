@@ -2878,7 +2878,7 @@ input, select, textarea {
 			-webkit-flex: 1;
 			-ms-flex: 1;
 			flex: 1;
-			padding: 1.5em;
+			padding: 1em;
 			color: #ffffff;
 			text-align: center;
 		}
