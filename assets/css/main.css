@@ -2872,6 +2872,11 @@ input, select, textarea {
 				margin-bottom: 0;
 			}
 
+		#project-bullets {
+			width: fit-content;
+			font-size: 14px;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			.features li {
